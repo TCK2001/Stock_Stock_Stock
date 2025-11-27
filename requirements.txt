@@ -2,11 +2,12 @@ flask
 requests==2.31.0
 requests-cache==1.2.1
 pandas>=2.2.3,<3.0
-plotly==5.9.0
+plotly>=6.0.0
 python-dateutil
 lxml
 html5lib
 feedparser==6.0.12
 beautifulsoup4
+
 
 
